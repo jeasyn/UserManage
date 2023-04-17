@@ -4,7 +4,7 @@ import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
 /**
- * Created by xialijuan on 2023/10/06.
+ * Created by xialijuan on 2020/10/06.
  */
 public class HibernateSessionFactory {
     private static SessionFactory sessionFactory;//会话工厂属性
