@@ -9,7 +9,7 @@ import session.HibernateSessionFactory;
 import java.util.List;
 
 /**
- * Created by xialijuan on 03/10/2023.
+ * Created by xialijuan on 2023/10/03.
  */
 public class UserDao {
 
