@@ -6,8 +6,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 /**
- * @author xialijuan
- * @date 2020/10/06
+ * Created by xialijuan on 06/10/2023.
  */
 @Entity
 public class User {

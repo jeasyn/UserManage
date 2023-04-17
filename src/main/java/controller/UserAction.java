@@ -7,8 +7,7 @@ import pojo.User;
 import java.util.List;
 
 /**
- * @author xialijuan
- * @date 2020/10/06
+ * Created by xialijuan on 10/06/2023.
  */
 public class UserAction extends ActionSupport {
 
